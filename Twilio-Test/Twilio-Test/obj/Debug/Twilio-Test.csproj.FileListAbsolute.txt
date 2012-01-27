@@ -1,0 +1,13 @@
+C:\@Git\Twilio-Test\Twilio-Test\Twilio-Test\bin\Twilio-Test.dll
+C:\@Git\Twilio-Test\Twilio-Test\Twilio-Test\bin\Twilio-Test.pdb
+C:\@Git\Twilio-Test\Twilio-Test\Twilio-Test\bin\EntityFramework.dll
+C:\@Git\Twilio-Test\Twilio-Test\Twilio-Test\bin\Twilio.Mvc.dll
+C:\@Git\Twilio-Test\Twilio-Test\Twilio-Test\bin\Twilio.Twiml.dll
+C:\@Git\Twilio-Test\Twilio-Test\Twilio-Test\bin\EntityFramework.xml
+C:\@Git\Twilio-Test\Twilio-Test\Twilio-Test\bin\Twilio.Mvc.pdb
+C:\@Git\Twilio-Test\Twilio-Test\Twilio-Test\bin\Twilio.Mvc.xml
+C:\@Git\Twilio-Test\Twilio-Test\Twilio-Test\bin\Twilio.Twiml.pdb
+C:\@Git\Twilio-Test\Twilio-Test\Twilio-Test\bin\Twilio.Twiml.xml
+C:\@Git\Twilio-Test\Twilio-Test\Twilio-Test\obj\Debug\ResolveAssemblyReference.cache
+C:\@Git\Twilio-Test\Twilio-Test\Twilio-Test\obj\Debug\Twilio-Test.dll
+C:\@Git\Twilio-Test\Twilio-Test\Twilio-Test\obj\Debug\Twilio-Test.pdb
