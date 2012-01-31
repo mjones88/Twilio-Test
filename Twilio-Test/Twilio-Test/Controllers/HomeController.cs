@@ -16,7 +16,7 @@ namespace Twilio_Test.Controllers
         public ActionResult Index()
         {
             var twilio = new TwilioResponse();
-            twilio.Say("Fuck it friday");
+            twilio.Say("Thanks Dave. James is a douche.");
             return new TwiMLResult(twilio);
         }
 
